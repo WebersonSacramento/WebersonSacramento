@@ -1,6 +1,6 @@
 # Cientista de Dados em constante aprendizagem......
 
-:notebook: Cientista de Dados pela Udemy e Prof. Daniel; :books:
+:notebook: Formação Cientista de Dados pela Udemy e Prof. Daniel; :books:
 
 :notebook: Pós graduação em Analise de Dados pela Faculdade Dedscomplica em curso; :books:
 
